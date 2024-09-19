@@ -1,19 +1,16 @@
 ## Hi there 👋
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=Maksim-Goncharovskiy&style=flat-square&color=blue" alt=""/>
+</div>
 
-<!--
-**Maksim-Goncharovskiy/Maksim-Goncharovskiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### :man_technologist: About Me :
+I am a novice ML engineer from Moscow.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👨‍🎓 I’m currently studying Applied Maths at the university
+- 🌱 I’m currently learning NLP and CV technologies
+
 
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -25,5 +22,4 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
-  <img src="" title="" **alt="" width="40" height="40"/>
 </div>
