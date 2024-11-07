@@ -22,6 +22,7 @@ I am a novice ML engineer from Moscow.
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" **alt="C++" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fhuggingface%2Ftransformers&psig=AOvVaw0Envzf06zy0ijWwjuG3frO&ust=1731084441514000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKi0wJ3WyokDFQAAAAAdAAAAABAE" title="Transformers" **alt="Transformers" width="40" height="40"/>
 </div>
 
 
