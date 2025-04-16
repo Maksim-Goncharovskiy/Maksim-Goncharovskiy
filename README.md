@@ -1,15 +1,10 @@
 ## Hi there 👋
-<div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=Maksim-Goncharovskiy&style=flat-square&color=blue" alt=""/>
-</div>
-
----
-
 ### :man_technologist: About Me :
-I am a novice ML engineer from Moscow.
+20 years old ML engineer from Moscow.
 
-- 👨‍🎓 I’m currently studying Applied Maths at the university
-- 🌱 I’m currently learning NLP and CV technologies
+- 👨‍🎓 Applied Maths student at the NUST MISIS
+- 📚 I have basic knowledge of CV and NLP technologies
+- 🌱 Currently interested in applying deep learning to audio processing
 
 
 
